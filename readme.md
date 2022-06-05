@@ -1,3 +1,5 @@
+<img src="./assets/duden.png" width="50%" />
+
 # Duden.de Search Workflow
 Simple dictionary search workflow for Alfred users
 ____________________
