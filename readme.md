@@ -16,7 +16,7 @@ Next, we have to install a package for python which is not available out of the 
 pip3 install beautifulsoup4
 ```
 
-Now you can import the workflow, which you can directly download from the [releases](./releases) page.
+Now you can import the workflow, which you can directly download from the [releases](https://github.com/wlchs/alfred_workflow_duden_de/releases) page.
 
 ## Preview
 ![Demo](./assets/demo.gif)
